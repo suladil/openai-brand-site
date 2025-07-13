@@ -1,0 +1,7 @@
+type: logos
+title: "Brand Logos"
+logos:
+  - src: "/images/openai-logo-primary.svg"
+    alt: "OpenAI Primary Logo"
+  - src: "/images/openai-logo-secondary.svg"
+    alt: "OpenAI Secondary Logo"
