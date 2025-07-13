@@ -1,0 +1,7 @@
+type: typography
+title: "Typography"
+fonts:
+  - name: "Helvetica Neue"
+    usage: "Headings"
+  - name: "Arial"
+    usage: "Body text"
