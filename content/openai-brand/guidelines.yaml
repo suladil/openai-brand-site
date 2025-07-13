@@ -1,0 +1,12 @@
+type: guidelines
+title: "Logo Usage Guidelines"
+text: |
+  Please use the logos as shown here. Do not distort or recolor the logos.
+
+examples:
+  correct:
+    - "/images/usage-correct1.png"
+    - "/images/usage-correct2.png"
+  incorrect:
+    - "/images/usage-incorrect1.png"
+    - "/images/usage-incorrect2.png"
